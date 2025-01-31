@@ -1,0 +1,196 @@
+CRITICAL - 2024-03-20 12:09:47 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-20 12:09:48 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-20 12:09:49 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-20 12:10:48 --> syntax error, unexpected identifier "get", expecting ")"
+#0 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#1 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#2 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2024-03-20 12:11:23 --> syntax error, unexpected identifier "get", expecting ")"
+#0 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#1 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#2 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2024-03-20 12:15:57 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 12:30:23 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 12:36:39 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 12:37:34 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:05:27 --> Undefined variable $sDev
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(176): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:06:26 --> Undefined variable $sDev
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(176): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:08:21 --> Undefined variable $sDev
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(176): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:08:30 --> Undefined variable $sDev
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(176): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:08:46 --> Undefined variable $sDev
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(176): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:11:50 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:12:11 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:16:32 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:16:53 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:17:30 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:17:42 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:17:54 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:22:18 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 14:25:03 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 15:15:32 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 15:15:41 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/newzzbazaar.online/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-03-20 15:16:47 --> Trying to access array offset on value of type null
+#0 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/newzzbazaar.online/public_html/app/Controllers/Connect.php(18): App\Controllers\Connect->index_post()
+#2 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Connect->index()
+#3 /home/newzzbazaar.online/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\Cod
